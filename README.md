@@ -1,4 +1,4 @@
-YOU DO NOT HAVE PERMISSION TO MODIFY THIS PROJECT WITHOUT A FOUNDER CONSENT
+**YOU DO NOT HAVE PERMISSION TO MODIFY THIS PROJECT WITHOUT A FOUNDER CONSENT**
 ___
 ## </Polter Enterprise>
 ###### Project - Altius
@@ -7,6 +7,7 @@ ___
 > Robert Wilson
 
 > Dejan Andovski
+
 
 *Developers **(7)***:
 > Polter
@@ -22,8 +23,5 @@ ___
 > Coffy
 
 > Avastra
-
-[Website](https://polterenterprise.gov).
-[Discord](https://discord.gg/eVvPpe7).
-
-***(C)** Polter Enterprise | All rights reserved!*
+___
+***(C)** Polter Enterprise | All rights reserved! [Website](https://polterenterprise.gov). [Discord](https://discord.gg/eVvPpe7).*
