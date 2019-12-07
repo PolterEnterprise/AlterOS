@@ -3,17 +3,22 @@
 
 **YOU DO NOT HAVE PERMISSION TO MODIFY THIS PROJECT WITHOUT A FOUNDER CONSENT**
 
-SHA
-
-Terminal Commands:
+Developers(7):
 ```
-test
+Polter
+D3nam1c
+Trybal
+Zachzodia
+Jibril
+Coffy
+Avastra
 ```
 
-Founders:
-> Robert Wilson | User@SHA
+Founders(2):
+> Robert Wilson
+> Dejan Andovski
 
-Website https://polterenterprise.gov
-Discord https://discord.gg/eVvPpe7
+[Website](https://polterenterprise.gov).
+[Discord](https://discord.gg/eVvPpe7).
 
 ***(C)** Polter Enterprise | All rights reserved!*
