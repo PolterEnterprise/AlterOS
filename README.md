@@ -5,12 +5,12 @@ ___
 ## </Polter Enterprise>
 ###### Project - Altius
 
-*Founders***(2)**:
+**Founders*(2)***:
 > Robert Wilson
 
 > Dejan Andovski
 
-*Developers***(7)**:
+**Developers*(7)***:
 > Polter
 
 > D3nam1c
