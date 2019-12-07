@@ -4,18 +4,23 @@
 **YOU DO NOT HAVE PERMISSION TO MODIFY THIS PROJECT WITHOUT A FOUNDER CONSENT**
 
 Developers(7):
-```
-Polter
-D3nam1c
-Trybal
-Zachzodia
-Jibril
-Coffy
-Avastra
-```
+> Polter
+
+> D3nam1c
+
+> Trybal
+
+> Zachzodia
+
+> Jibril
+
+> Coffy
+
+> Avastra
 
 Founders(2):
 > Robert Wilson
+
 > Dejan Andovski
 
 [Website](https://polterenterprise.gov).
