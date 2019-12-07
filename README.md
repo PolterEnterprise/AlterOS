@@ -24,4 +24,4 @@ ___
 
 > Avastra
 ___
-***(C)** Polter Enterprise | All rights reserved! [Website](https://polterenterprise.gov). [Discord](https://discord.gg/eVvPpe7).*
+*(C) Polter Enterprise | All rights reserved! [Website](https://polterenterprise.gov). [Discord](https://discord.gg/eVvPpe7).*
