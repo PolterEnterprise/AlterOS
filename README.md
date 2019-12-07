@@ -3,6 +3,11 @@
 
 **YOU DO NOT HAVE PERMISSION TO MODIFY THIS PROJECT WITHOUT A FOUNDER CONSENT**
 
+Founders(2):
+> Robert Wilson
+
+> Dejan Andovski
+
 Developers(7):
 > Polter
 
@@ -17,11 +22,6 @@ Developers(7):
 > Coffy
 
 > Avastra
-
-Founders(2):
-> Robert Wilson
-
-> Dejan Andovski
 
 [Website](https://polterenterprise.gov).
 [Discord](https://discord.gg/eVvPpe7).
