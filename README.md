@@ -1,16 +1,14 @@
-**YOU DO NOT HAVE PERMISSION TO MODIFY THIS PROJECT WITHOUT A FOUNDER CONSENT**
-
+YOU DO NOT HAVE PERMISSION TO MODIFY THIS PROJECT WITHOUT A FOUNDER CONSENT
 ___
-
 ## </Polter Enterprise>
 ###### Project - Altius
 
-**Founders*(2)***:
+*Founders **(2)***:
 > Robert Wilson
 
 > Dejan Andovski
 
-**Developers*(7)***:
+*Developers **(7)***:
 > Polter
 
 > D3nam1c
