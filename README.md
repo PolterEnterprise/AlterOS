@@ -3,7 +3,7 @@ ___
 ## </Polter Enterprise>
 ###### Project - Altius
 
-*Founders **(2)***:
+*Founders **(4)***:
 > Polter | Robert
 
 > D3nam1c | Dejan
