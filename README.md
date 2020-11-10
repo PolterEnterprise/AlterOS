@@ -4,24 +4,12 @@ ___
 ###### Project - Altius
 
 *Founders **(2)***:
-> Robert Wilson
+> Polter | Robert
 
-> Dejan Andovski
+> D3nam1c | Dejan
 
+> Zachzodia | Stefan
 
-*Developers **(7)***:
-> Polter
-
-> D3nam1c
-
-> Trybal
-
-> Zachzodia
-
-> Jibril
-
-> Coffy
-
-> Avastra
+> Jibril | Jessica
 ___
 *(C) Polter Enterprise | All rights reserved! [Website](https://polterenterprise.gov). [Discord](https://discord.gg/eVvPpe7).*
