@@ -1,15 +1,14 @@
-**YOU DO NOT HAVE PERMISSION TO MODIFY THIS PROJECT WITHOUT A FOUNDER CONSENT**
+**YOU DO NOT HAVE PERMISSION TO MODIFY THIS PROJECT WITHOUT A FOUNDER(s) CONSENT**
 ___
-## </Polter Enterprise>
-###### Project - Altius
+## </Polter Labs> Altius
 
 *Founders **(4)***:
-> Polter | Robert
+- [x] `Polter | Harrison`
 
-> D3nam1c | Dejan
+- [x] `Jibril | Jessica`
 
-> Zachzodia | Stefan
+- [x] `D3nam1c | Dejan`
 
-> Jibril | Jessica
+- [x] `Zachzodia | Stefan`
 ___
-*(C) Polter Enterprise | All rights reserved! [Website](https://polterenterprise.gov). [Discord](https://discord.gg/eVvPpe7).*
+*(C) Polter Enterprise | All rights reserved! [Website](https://polterssanctuary.ddns.net). [Discord](https://discord.gg/eVvPpe7).*
