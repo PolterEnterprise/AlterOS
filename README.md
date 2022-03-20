@@ -11,4 +11,4 @@ ___
 
 - [x] `Zachzodia | Stefan`
 ___
-*(C) Polter Enterprise | All rights reserved! [Website](https://polterssanctuary.ddns.net). [Discord](https://discord.gg/eVvPpe7).*
+*(C) Polter Enterprise | All rights reserved! [Website](https://poltersanctuary.ddns.net). [Discord](https://discord.gg/eVvPpe7).*
