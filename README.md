@@ -1,14 +1,5 @@
-**YOU DO NOT HAVE PERMISSION TO MODIFY THIS PROJECT WITHOUT A FOUNDER(s) CONSENT**
-___
-## </Polter Labs> Altius
+# AlterOS - Medieval Fantasy RPG
 
-*Founders **(4)***:
-- [x] `Polter | Harrison`
+**YOU DO NOT HAVE PERMISSION TO MODIFY THIS PROJECT'S CORE FUNCTIONALITY WITHOUT A PROPER CONSENT**
 
-- [x] `Jibril | Jessica`
-
-- [x] `D3nam1c | Dejan`
-
-- [x] `Zachzodia | Stefan`
-___
-*(C) Polter Enterprise | All rights reserved! [Website](https://poltersanctuary.ddns.net). [Discord](https://discord.gg/eVvPpe7).*
+*(C) Polter Enterprise | All rights reserved! [Website](https://poltersanctuary.com). [Discord](https://discord.gg/eVvPpe7).*
